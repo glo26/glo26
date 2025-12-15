@@ -1,1 +1,1 @@
-Currently building **[StepShield](https://github.com/glo26/stepshield)** — a benchmark for detecting rogue behaviors in AI agents during code execution. CEO @ [AtlasPro AI](https://github.com/AtlasPro-AI) - the spatial intelligence layer of choice for critical infrastructure.
+Hi there! Glo here, I'm currently building **[StepShield](https://github.com/glo26/stepshield)** — a benchmark for detecting rogue behaviors in AI agents during code execution. CEO @ [AtlasPro AI](https://github.com/AtlasPro-AI) - the spatial intelligence layer of choice for critical infrastructure.
