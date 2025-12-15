@@ -1,6 +1,3 @@
-## About:
-
-
 ### AI Safety Researcher · Agent Security · 2x Founder
 
 Building **[StepShield](https://github.com/glo26/stepshield)** — a benchmark for detecting rogue behaviors in AI agents during code execution. CEO @ [AtlasPro AI](https://github.com/AtlasPro-AI). Stanford · MIT · UVA.
